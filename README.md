@@ -52,3 +52,5 @@ except Exception as e:
 
 
 <H3> Result:</H3>
+
+Thus, the program to implement the conversion of live speech to text is excecuted.
